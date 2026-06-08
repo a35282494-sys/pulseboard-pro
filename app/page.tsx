@@ -1,20 +1,5 @@
 import Link from "next/link";
-import {
-  ArrowRight,
-  BadgeCheck,
-  BarChart3,
-  ChevronRight,
-  CircleDollarSign,
-  Gauge,
-  Layers3,
-  LifeBuoy,
-  LockKeyhole,
-  Rocket,
-  ShieldCheck,
-  Sparkles,
-  Users,
-  Workflow
-} from "lucide-react";
+import { ArrowRight, BadgeCheck, LockKeyhole, Sparkles, ShieldCheck } from "lucide-react";
 
 const metrics = [
   { value: "10x", label: "faster client delivery" },
