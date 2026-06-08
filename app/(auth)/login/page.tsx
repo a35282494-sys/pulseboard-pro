@@ -1,6 +1,5 @@
 import Link from "next/link";
-import { ArrowRight, BadgeCheck, LockKeyhole, Sparkles } from "lucide-react";
-
+import { ArrowRight, BadgeCheck, LockKeyhole, Sparkles, ShieldCheck } from "lucide-react";
 const benefits = [
   "Secure workspace access",
   "Dashboard, projects, and analytics in one place",
